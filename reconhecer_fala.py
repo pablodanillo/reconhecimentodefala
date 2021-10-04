@@ -1,5 +1,4 @@
 # instalação: SpeechRecognition e PyAudio
-# para pyaudio, digite no google "install pyaudio seu_sistema_operacional"
 
 import speech_recognition as sr
 
